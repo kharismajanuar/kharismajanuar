@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Kharisma.</h1>
 
-<p>Welcome to my profile! </br> I'm Back-End developer from <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/id.png" width="13"/> <b>Indonesia.</b> </br> I have some works with </b>Golang</b>, contact me if you have same interesting or some questions!</p>
+<div align="center">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYyYmMxMGUyYTM2YTc2YzFiNjYxNjlmNTY3MTM0Zjc3OGUwYWRkMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT1XGzXhVgWRLN1Cco/giphy.gif" alt="Cat Code" width="200">
+  <p>Welcome to my profile! </br> I'm Back-End developer from <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/id.png" width="13"/> <b>Indonesia.</b> </br> I have some works with <b>Golang</b>, contact me if you have same interesting or some questions!</p>
+   <br>
+</div>
 
 <h3>Things I code with</h3>
 <p>
