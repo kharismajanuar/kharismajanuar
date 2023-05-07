@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Kharisma.</h1>
 
 <div align="center">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYyYmMxMGUyYTM2YTc2YzFiNjYxNjlmNTY3MTM0Zjc3OGUwYWRkMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT1XGzXhVgWRLN1Cco/giphy.gif" alt="Cat Code" width="200">
+   <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Cat" width="400">
   <p><b>Welcome to my profile!</b></p>
    <br>
 </div>
