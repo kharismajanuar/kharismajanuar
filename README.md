@@ -23,6 +23,7 @@
   <img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-94c73d?style=flat-square&logo=openapi-initiative&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
