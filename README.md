@@ -1,12 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Kharisma.</h1>
+<h1 align="center">Hi there 👋, I'm Kharisma Januar</h1>
 
 <div align="center">
    <img src="https://media4.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="Cat" width="200">
-  <p><b>Welcome to my profile!</b></p>
-   <br>
+   <p align="center" style="font-style: italic;">"It’s not a bug; it’s an undocumented feature." ― Anonymous Quotes</p>
 </div>
 
-<p>I'm Back-End developer from <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/id.png" width="13"/> <b>Indonesia.</b> </br> I have some works with <b>Golang</b>, contact me if you have same interesting or some questions!</p>
+- 💻 I’m **Backend Engineering** enthusiast
+- ✨ I'm currently have some works with **Golang**
+- 📫 Any freelance work? Reach me at **kharisma.januar@gmail.com**
+- 💬 Ask me about anything, I'm happy to help :)
+- ⚡ Fun fact: I'm from <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/id.png" width="13"/> **Indonesia** and love **Music** 🎵
 
 <h3>Things I code with</h3>
 <p>
