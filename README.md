@@ -32,13 +32,13 @@
 
 <h3>Where to find me</h3>
 <a href="https://www.instagram.com/kharismajanuar/">
-  <img align="left" alt="Kharisma's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Kharisma's Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" />
 </a>
 <a href="https://twitter.com/kharismajanuar">
-  <img align="left" alt="Kharisma Januar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kharisma Januar | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/kharismajanuar/">
-  <img align="left" alt="Kharisma's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kharisma's LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
 <br />
 
